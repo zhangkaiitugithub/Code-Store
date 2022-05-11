@@ -1,0 +1,84 @@
+﻿proxies:
+  - {name: "[SS][🇨🇳][中]", server: gz.syhwdz.top, port: 35018, type: ss, cipher: aes-256-gcm, password: arielherself, udp: true}
+  - {name: "[SS][🇸🇬][新]", server: 139.162.24.50, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.205, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: "[VM][🇭🇰][港]", server: hkaz2.xmrth-node.xyz, port: 14935, type: vmess, uuid: 49d42ad5-5bd2-3a08-9662-b08e3b666c1f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: hkaz2.xmrth-node.xyz}}, udp: true}
+  - {name: "[TR][🇮🇳][寻]", server: 140.238.231.9, port: 443, type: trojan, password: O3hQcnNKAE, skip-cert-verify: true, udp: true}
+  - {name: "[VM][🇭🇰][港]", server: hkaz002.xmrth-node.xyz, port: 14499, type: vmess, uuid: 49d42ad5-5bd2-3a08-9662-b08e3b666c1f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: hkaz002.xmrth-node.xyz}}, udp: true}
+  - {name: "[VM][🇭🇰][港]", server: hkaz003.xmrth-node.xyz, port: 14489, type: vmess, uuid: 49d42ad5-5bd2-3a08-9662-b08e3b666c1f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: hkaz003.xmrth-node.xyz}}, udp: true}
+  - {name: "[SS][🇦🇺][澳]", server: 185.167.116.253, port: 9011, type: ss, cipher: aes-256-cfb, password: M3t2ZEQcMGRWBjRa, udp: true}
+  - {name: "[SS][🇦🇺][澳]", server: 185.167.116.253, port: 9043, type: ss, cipher: aes-256-cfb, password: HSZuyJQcWe8dxNdF, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.114.114.67, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.114.114.67, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.75.136.102, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.75.136.102, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.75.136.102, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.114.114.67, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.75.136.102, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.75.136.102, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.114.114.67, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.75.136.102, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.91.100.134, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.75.136.102, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.221, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.75.136.102, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.91.100.134, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.221, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.114.114.67, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: "[SS][🇰🇷][韩]", server: 132.226.20.79, port: 4666, type: ss, cipher: aes-128-gcm, password: PaSR4XPkpAdJphKP, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.205, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.24, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 167.88.63.60, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.221, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.221, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: "[SS][🇵🇱][寻]", server: 217.30.10.64, port: 9014, type: ss, cipher: aes-256-cfb, password: KnJGad3FqTvjqbaX, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 169.197.141.109, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: "[SS][🇦🇺][澳]", server: 185.167.116.252, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.221, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.221, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.24, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.221, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.187, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.205, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: "[SS][🇵🇱][寻]", server: 217.30.10.64, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.24, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 167.88.63.60, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: "[SS][🇵🇱][寻]", server: 217.30.10.64, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.187, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: "[SS][🇵🇱][寻]", server: 217.30.10.64, port: 9037, type: ss, cipher: aes-256-cfb, password: TN2YqghxeFDKZfLU, udp: true}
+  - {name: "[SS][🇵🇱][寻]", server: 217.30.10.64, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.75.136.102, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 38.75.136.102, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: "[SS][🇵🇱][寻]", server: 217.30.10.64, port: 9045, type: ss, cipher: aes-256-cfb, password: Lp27rqyJq72bZsqX, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.187, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.205, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 72.140.224.197, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: "[SS][🇵🇱][寻]", server: 217.30.10.64, port: 9015, type: ss, cipher: aes-256-cfb, password: ZpNDDKRu9MagNvaf, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 169.197.141.109, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 72.140.224.197, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: "[SS][🇵🇱][寻]", server: 217.30.10.63, port: 9015, type: ss, cipher: aes-256-cfb, password: ZpNDDKRu9MagNvaf, udp: true}
+  - {name: "[SS][🇵🇱][寻]", server: 217.30.10.64, port: 9041, type: ss, cipher: aes-256-cfb, password: U6qnYRhfyDmn8sgn, udp: true}
+  - {name: "[SS][🇵🇱][寻]", server: 217.30.10.64, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true}
+  - {name: "[SS][🇨🇦][加]", server: 134.195.196.205, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: "[SS][🇵🇱][寻]", server: 217.30.10.64, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true}
+  - {name: "[SS][🇵🇱][寻]", server: 217.30.10.64, port: 9057, type: ss, cipher: aes-256-cfb, password: wjTugX3ZtHMB9c3Z, udp: true}
+  - {name: "[SS][🇧🇬][寻]", server: 213.183.63.217, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y, udp: true}
+  - {name: "[TR][🇭🇰][港]", server: hkbn.okvpn.xyz, port: 12000, type: trojan, password: 0ce2ee7d-4889-4c64-8a75-4a86e6bbb1c4, skip-cert-verify: true, udp: true}
+  - {name: "[SS][🇧🇬][寻]", server: 213.183.63.217, port: 9059, type: ss, cipher: aes-256-cfb, password: 9XwYyZsK8SNzQDtY, udp: true}
+  - {name: "[SS][🇺🇸][美]", server: 167.88.63.60, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: "[TR][🇸🇬][新]", server: free.spcloud.us, port: 10001, type: trojan, password: fdb6f3a3-9d29-47c3-8c92-5a279626dc5b, skip-cert-verify: true, udp: true}
+  - {name: "[VM][🇸🇬][新]", server: sgaws006.xmrth-node.xyz, port: 14510, type: vmess, uuid: 49d42ad5-5bd2-3a08-9662-b08e3b666c1f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: sgaws006.xmrth-node.xyz}}, udp: true}
+  - {name: "[VM][🇸🇬][新]", server: sgaws001.xmrth-node.xyz, port: 14446, type: vmess, uuid: 49d42ad5-5bd2-3a08-9662-b08e3b666c1f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: sgaws001.xmrth-node.xyz}}, udp: true}
+  - {name: "[VM][🇸🇬][新]", server: sgaws002.xmrth-node.xyz, port: 14508, type: vmess, uuid: 49d42ad5-5bd2-3a08-9662-b08e3b666c1f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: sgaws002.xmrth-node.xyz}}, udp: true}
+  - {name: "[VM][🇸🇬][新]", server: sgaws004.xmrth-node.xyz, port: 14415, type: vmess, uuid: 49d42ad5-5bd2-3a08-9662-b08e3b666c1f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: sgaws004.xmrth-node.xyz}}, udp: true}
+  - {name: "[VM][🇸🇬][新]", server: sgaws005.xmrth-node.xyz, port: 13057, type: vmess, uuid: 49d42ad5-5bd2-3a08-9662-b08e3b666c1f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: sgaws005.xmrth-node.xyz}}, udp: true}
+  - {name: "[VM][🇯🇵][日]", server: jpaz3.xmrth-node.xyz, port: 14266, type: vmess, uuid: 49d42ad5-5bd2-3a08-9662-b08e3b666c1f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: jpaz3.xmrth-node.xyz}}, udp: true}
+  - {name: "[VM][🇸🇬][新]", server: sgaws003.xmrth-node.xyz, port: 11450, type: vmess, uuid: 49d42ad5-5bd2-3a08-9662-b08e3b666c1f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: sgaws003.xmrth-node.xyz}}, udp: true}
+  - {name: "[SS][🇩🇪][寻]", server: 5.183.179.140, port: 9053, type: ss, cipher: aes-256-cfb, password: SBM7R883jBmnqe6C, udp: true}
+  - {name: "[SS][🇷🇺][寻]", server: 213.183.53.177, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu, udp: true}
+  - {name: "[VM][🇰🇷][韩]", server: kraws007.xmrth-node.xyz, port: 14717, type: vmess, uuid: 49d42ad5-5bd2-3a08-9662-b08e3b666c1f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: kraws007.xmrth-node.xyz}}, udp: true}
+  - {name: "[SS][🇷🇺][寻]", server: 213.183.53.177, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, udp: true}
+  - {name: "[VM][🇩🇪][寻]", server: 146.0.42.87, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ws, headers: {Host: 146.0.42.87}}, udp: true}
+  - {name: "[SSR][🇷🇺][寻]", server: 213.183.53.177, port: 9057, type: ss, cipher: aes-256-cfb, password: wjTugX3ZtHMB9c3Z, udp: true}
+  - {name: "[VM][🇰🇷][韩]", server: kraws006.xmrth-node.xyz, port: 15284, type: vmess, uuid: 49d42ad5-5bd2-3a08-9662-b08e3b666c1f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: kraws006.xmrth-node.xyz}}, udp: true}
+  - {name: "[SSR][🇷🇺][寻]", server: 213.183.53.177, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4, udp: true}
