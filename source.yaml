@@ -1,0 +1,28 @@
+  # tg频道
+  #- type: tgchannel
+  #  options:
+  #   channel: Jsnzk
+  #   num: 200    
+  # 网页模糊抓取
+  #- type: webfuzz
+  #  options:
+  #    url: https://v2cross.com/
+  #- type: webfuzz
+  #  options:
+  #    url: https://www.cfmem.com/search/label/free
+  #- type: tgchannel
+  #  options:
+  #   channel: freeshadowsock
+  #    num: 200
+  #- type: tgchannel
+  #  options:
+  #   channel: ShareCentrePro
+  #   num: 200  
+  - type: tgchannel
+    options:
+      channel: BmFt1
+      num: 200  
+  # 订阅链接
+  - type: subscribe
+    options:
+      url: https://v1.mk/BNAm5UW
